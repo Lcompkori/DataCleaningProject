@@ -1,4 +1,4 @@
--- Cleaning data in SQL queries
+-- Cleaning data in Microsoft SQL Server
 
 Select 
 	* 
